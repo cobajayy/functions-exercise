@@ -47,7 +47,7 @@ your code here
 4. Define a function called `maxOfThree` that takes three numbers as arguments and returns the largest of them. Math.max method is not allowed.
 
 5. Define a function called `sumArray` that takes an array of numbers and returns the sum of those numbers. For example, `sumArray([2, 4, 5]);` would return `11`.
-    > Hint: look up the `.lentgh` method to get the length of an array.
+    > Hint: look up the `.length` method to get the length of an array.
 
 6. Create a loop that prints every even number between 0 and 100.
 
